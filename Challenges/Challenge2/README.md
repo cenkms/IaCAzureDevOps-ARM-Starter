@@ -1,7 +1,6 @@
 # IaC - Azure DevOps - ARM
 # Infrastructure as Code with Azure DevOps using ARM
-## Challenge 2 - Deploying the first ARM template.
----
+# Challenge 2 - Deploying the first ARM template.
 
 ## Challenge
 - Simple ARM templates with deploying only one storage account.

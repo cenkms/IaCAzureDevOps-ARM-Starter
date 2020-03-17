@@ -1,7 +1,6 @@
 # IaC - Azure DevOps - ARM
 # Infrastructure as Code with Azure DevOps using ARM
-## Challenge 1 - Setup Azure DevOps Project
----
+# Challenge 1 - Setup Azure DevOps Project
 
 ## Challenge
 - First, create your first Azure DevOps project

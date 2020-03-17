@@ -14,7 +14,7 @@
 
 
 ## Delivery Content: 
-<!-- [Deployment Setup Guide](https://github.com/faridabharmal/AzureGovernance/blob/master/Challenge%200%20-%20Deployment%20Setup%20Guide.docx?raw=true) -->
+[Step by step Guide](https://github.com/cenkms/IaCAzureDevOps-ARM-Starter)
 
 
 ## Audience

@@ -1,8 +1,7 @@
 # IaC - Azure DevOps - ARM
 # Infrastructure as Code with Azure DevOps using ARM
+# Challenge 8 - Deploying a VM with VNet - Linked
 
-## Challenge 8 - Deploying a VM with VNet - Linked
----
 
 ## Challenge
 - Same template but modularize VM and Vnet deployment to two different files

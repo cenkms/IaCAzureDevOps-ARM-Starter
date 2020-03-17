@@ -1,8 +1,7 @@
 # IaC - Azure DevOps - ARM
 # Infrastructure as Code with Azure DevOps using ARM
+# Challenge 7 - Deploying a VM with VNet - Nested 
 
-## Challenge 7 - Deploying a VM with VNet - Nested 
----
 
 ## Challenge
 - Same template but modularize VM and Vnet deployment

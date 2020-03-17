@@ -1,8 +1,7 @@
 # IaC - Azure DevOps - ARM
 # Infrastructure as Code with Azure DevOps using ARM
+# Challenge 9 - Deploying a VMs optionally Windows or Linux with Availability zones add CSE - files
 
-## Challenge 9 - Deploying a VMs optionally Windows or Linux with Availability zones add CSE - files
----
 
 ## Challenge
 - Add Zones, Operating systems to the ARM templates

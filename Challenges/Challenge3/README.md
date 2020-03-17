@@ -1,8 +1,6 @@
 # IaC - Azure DevOps - ARM
 # Infrastructure as Code with Azure DevOps using ARM
-
-## Challenge 3 - Changing code - adding Parameters (Implementing CI)
----
+# Challenge 3 - Changing code - adding Parameters (Implementing CI)
 
 ## Challenge
 - Make sure before you change anything in the code

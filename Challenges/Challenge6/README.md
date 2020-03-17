@@ -1,8 +1,6 @@
 # IaC - Azure DevOps - ARM
 # Infrastructure as Code with Azure DevOps using ARM
-
-## Challenge 6 - Deploying a VM with VNet
----
+# Challenge 6 - Deploying a VM with VNet
 
 ## Challenge
 - Before you start to think about what a VM needs?

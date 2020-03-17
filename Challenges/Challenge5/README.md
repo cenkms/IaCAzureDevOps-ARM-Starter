@@ -1,8 +1,6 @@
 # IaC - Azure DevOps - ARM
 # Infrastructure as Code with Azure DevOps using ARM
-
-## Challenge 5 - Deploy a VM with VNet
----
+# Challenge 5 - Deploy a VM with VNet
 
 ## Challenge
 - Use your parameters files for different environments

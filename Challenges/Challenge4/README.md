@@ -1,8 +1,6 @@
 # IaC - Azure DevOps - ARM
 # Infrastructure as Code with Azure DevOps using ARM
-
-## Challenge 4 - Enhancing your ARM Template
----
+# Challenge 4 - Enhancing your ARM Template
 
 ## Challenge
 - Add the name as a parameter for the storage
