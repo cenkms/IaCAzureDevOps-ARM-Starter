@@ -25,3 +25,5 @@
 ## Tips
 - There could be two environments right now dev, qa
 - Make sure you add Environment in the name
+
+[Next: Challenge 6](../Challenge6)

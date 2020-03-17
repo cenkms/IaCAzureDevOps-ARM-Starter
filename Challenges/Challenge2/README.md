@@ -19,3 +19,7 @@
 - Azure Blob Storage naming rules are complicated, make sure you are selecting one unique enough
 - For now, deploying from Build Pipeline is okay!
 - You can use YAML based or classic pipelines.
+
+[Check the repo](../../Repositories/Repo2)
+
+[Next: Challenge 3](../Challenge3)

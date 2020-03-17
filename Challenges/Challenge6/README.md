@@ -20,3 +20,7 @@
 ## Tips
 - One environment is enough
 - Have you seen this? https://github.com/Azure/azure-quickstart-templates
+
+[Check the repo](../../Repositories/Repo6)
+
+[Next: Challenge 7](../Challenge7)

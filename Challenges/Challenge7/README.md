@@ -16,3 +16,5 @@
 
 ## References
 - https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/linked-templates
+
+[Next: Challenge 8](../Challenge8)

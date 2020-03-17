@@ -22,3 +22,5 @@
 
 ## Tips
 - Using variables and adding uniqueString is not bonus however using Con
+
+[Next: Challenge 5](../Challenge5)

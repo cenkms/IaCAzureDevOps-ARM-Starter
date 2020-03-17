@@ -34,3 +34,5 @@
 - [About Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
 - Have you heard template functions?
 - https://samcogan.com/do-more-with-arm-templates-using-functions/
+
+[Next: Challenge 4](../Challenge4)

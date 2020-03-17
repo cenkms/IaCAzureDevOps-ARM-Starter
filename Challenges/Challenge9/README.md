@@ -18,3 +18,5 @@
 
 ## Tips
 - https://github.com/Azure/azure-quickstart-templates/blob/master/201-vm-custom-script-windows/azuredeploy.json
+
+[Next: Challenge 10](../Challenge10)

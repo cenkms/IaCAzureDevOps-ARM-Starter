@@ -16,3 +16,5 @@
 - https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/linked-templates
 - https://docs.microsoft.com/en-us/azure/devops/pipelines/process/stages
 - https://andrewmatveychuk.com/how-to-deploy-linked-arm-templates-from-private-azure-devops-repositories/
+
+[Next: Challenge 9](../Challenge9)
