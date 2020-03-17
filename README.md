@@ -34,8 +34,10 @@ This content has been targeted to internal Microsoft, Partners and Customers loo
 6. Deploying a VM with VNet 
 7. Deploying a VM with VNet - Nested 
 8. Deploying a VM with VNet - Linked
-9. Deploying a VM with VNet adding extentions - files
+9. Deploying a VMs optionally Windows or Linux with Availability zones add CSE - files
 10. Integrate testing
 
 ## Delivery Schedule:
 Completly self pased workshop.
+
+[Let's get started](../Challenges/Challenge1)
