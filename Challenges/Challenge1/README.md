@@ -17,4 +17,4 @@
 - https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/create-organization?view=azure-devops
 - https://docs.microsoft.com/en-us/azure/devops/repos/git/import-git-repository?view=azure-devops
 
-[Let get started](https://../Challenges/Challenge1)
+[Next: Challenge 2](../Challenge2)
