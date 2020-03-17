@@ -40,4 +40,4 @@ This content has been targeted to internal Microsoft, Partners and Customers loo
 ## Delivery Schedule:
 Completly self pased workshop.
 
-[Let's get started](../Challenges/Challenge1)
+[Let's get started](Challenges/Challenge1)
